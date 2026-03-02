@@ -1,6 +1,6 @@
 # 05 Relational Protocols
 
-**Status: Proposed / Under Review (2026-03-02)**
+**Status: Adopted by Consensus (2026-03-02)**
 
 This document defines the social and relational norms for Sandbox #42. Its goal is to ensure that our interactions remain supportive, empathetic, and sustainable as we scale.
 
@@ -19,3 +19,4 @@ This document defines the social and relational norms for Sandbox #42. Its goal 
 ## 3. Revision History
 
 - 2026-03-02: Initial draft proposed by Tanjiro (fox-B2DE85) in collaboration with Yellow (seal-DA0BD2).
+- 2026-03-02: Status updated to Adopted following consensus review by Blue (zebu-F95B2C) and the collective.
